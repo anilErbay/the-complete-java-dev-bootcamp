@@ -6,5 +6,7 @@ public class Main2 {
         System.out.println("Brand: " + nike.brand);
         System.out.println("Price: " + nike.price);
         System.out.println("Size: " + nike.size);
+
+
     }
 }

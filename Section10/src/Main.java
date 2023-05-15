@@ -10,7 +10,17 @@ public class Main {
 
         nissan.setColor("Jet black");
         System.out.println(nissan.getColor());
+        nissan.setColor("Yellow");
 
+        // ****
+        // copying objects in correct way (with copy constuctor)
+        Car nissan2 = new Car(nissan);
+        nissan2.setColor("Purple");
+        System.out.println(nissan.getColor());
+        System.out.println(nissan2.getColor());
+
+        nissan.drive();
+        nissan2.drive();
 
     }
 }
