@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e0a0302-400f-4a50-8318-d7ba9513a34d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapEquality/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapEquality/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmapEquality/MapHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
